@@ -1,6 +1,3 @@
 *****
 kod aplikacije
 *****
-Dodatni kod nekog cool feature-a
-
-research kod bla
