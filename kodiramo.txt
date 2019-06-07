@@ -1,6 +1,6 @@
 *****
-kod aplikacije
-*****
-Dodatni kod nekog cool feature-a
 
+Dodatni kod nekog cool feature-a
+-dod
+-lalaal
 research kod bla
